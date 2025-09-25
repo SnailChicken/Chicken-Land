@@ -1,4 +1,4 @@
-<img width="1563" height="1563" alt="Game Icons" src="https://github.com/user-attachments/assets/57090e28-d54a-4241-8e55-65fb8d58080d" />
+<img width="1024" height="1024" alt="chickancon" src="https://github.com/user-attachments/assets/44009304-48e5-4ecf-a160-a7f93df20e4d" />
 
 This is a cute game with chickens, it is a web based game built with electron.
 You can have up to 30 chickens but the game will freeze if you try to add more than that.
